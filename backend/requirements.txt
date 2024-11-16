@@ -1,0 +1,10 @@
+fastapi
+uvicorn 
+requests 
+httpx
+rapidfuzz
+fpdf
+google-cloud-storage
+google-auth
+asyncpg
+pandas
